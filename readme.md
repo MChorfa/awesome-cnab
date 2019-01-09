@@ -5,24 +5,15 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Platforms](#Platforms)
 
+## Platforms
 
-## Section
+### Deislabs - Microsoft
 
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Duffle](https://github.com/deislabs/duffle) - CNAB installer
+- [Duffle Workshop](https://github.com/deislabs/cnab-workshop) - CNAB / Duffle workshop
+- [Porter](https://github.com/deislabs/porter) - Porter makes CNAB bundles easier!
 
 
 ## Contribute
