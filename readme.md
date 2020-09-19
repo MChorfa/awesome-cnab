@@ -97,6 +97,7 @@
 - [Bringing container magic to cloud](https://cloudblogs.microsoft.com/opensource/2019/09/10/cloud-native-application-bundle-cnab-1-0-updates/) - Bringing container magic to cloud-native applications
 - [Pivotal Build Service](https://tanzu.vmware.com/content/blog/pivotal-build-service-now-alpha-assembles-and-updates-containers-in-kubernetes) - Pivotal Build Service, Now VMware Tanzu Function Service, Assembles and Updates Containers in Kubernetes
 - [powering-docker-app-next-steps-for-cnab](https://www.docker.com/blog/powering-docker-app-next-steps-for-cnab/) Powering Docker App: Next Steps for Cloud Native Application Bundles (CNAB)
+- [Free Glue Code - Porter](https://carolynvanslyck.com/blog/2019/04/porter) - Free Glue Code - Porter
 
 ## Videos
 
@@ -107,8 +108,7 @@
 - [Understanding Cloud Native Application Bundles](https://www.youtube.com/embed/1FGMrv_xfqY) - understanding-cloud-native-application-bundles
 - [Porter: Digital Ocean, Terraform, Kubernetes](https://www.youtube.com/embed/ciA1YuGOIo4) - A demo video of using Porter to deploy infrastructure to Digital Ocean and Kubernetes using Terraform and Helm.
 - [Porter Bundle with K3D, Helm3 and Brigade by Nuno Do Carmo](https://www.youtube.com/embed/9egipQjUgD0) - Nuno Do Carmo demonstrates how to use Porter and CNAB to install Brigade on a new Kubernetes cluster using k3d and Helm.
-- [Porter: An Opinionated CNAB Authoring Experience](#porter-an-opinionated-cnab-authoring-experience)
-- [Free Glue Code - Porter](https://www.youtube.com/embed/__fim6RIW1s) - Free Glue Code - Porter
+- [Porter: An Opinionated CNAB Authoring Experience](https://www.youtube.com/embed/__fim6RIW1s) - Porter: An Opinionated CNAB Authoring Experience
 
 ## Talks
 
