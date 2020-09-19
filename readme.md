@@ -27,6 +27,14 @@
 - [oci-distribution](https://github.com/opencontainers/distribution-spec) - Open Container Initiative Distribution Specification
 - [cnab-compatible-registries](https://cnab.io/registries/) - Compatible Registries
 
+## Bundles
+
+- [CNAB-Quickstarts](https://github.com/Azure/azure-cnab-quickstarts)- Azure CNAB Quickstarts
+- [KubeCon EU 2020](https://github.com/chris-crone/kubecon-eu-20)- Simplify Your Cloud Native Application Packaging and Deployment
+- [porter-bundles](https://github.com/vdice/porter-bundles)- porter-bundles
+- [duffle-bag](https://github.com/deislabs/duffle-bag)- A template for graphical user interfaces for working with CNAB bundles.
+
+
 ## Implementations
 
 ### Porter
@@ -34,9 +42,9 @@
 - [porter.sh](https://porter.sh) - Learn all about Porter
 - [porter-source](https://github.com/getporter/porter) - Porter makes CNAB bundles easier!
 - [porter-community](https://github.com/getporter/community) -  Porter Community repo
-- [Mailing List](https://porter.sh/mailing-list) - Great for following the project at a high level because it is low traffic
-- [Slack](https://porter.sh/community/#slack) - Discuss #porter or #cnab with other users and the maintainers.
-- [Open an Issue](https://github.com/deislabs/porter/issues/new/choose) - If you have a bug, feature request or question about Porter
+- [mailing List](https://porter.sh/mailing-list) - Great for following the project at a high level because it is low traffic
+- [slack](https://porter.sh/community/#slack) - Discuss #porter or #cnab with other users and the maintainers.
+- [open an Issue](https://github.com/deislabs/porter/issues/new/choose) - If you have a bug, feature request or question about Porter
 - [skeletor](https://github.com/getporter/skeletor) - skeleton structure of a Porter Mixin
 - [gh-action](https://github.com/getporter/gh-action) - Porter Setup Action. This action installs porter so that it can be used in pipelines
 - [pipeline-demo](https://github.com/getporter/pipeline-demo) - This is an example bundle that uses the docker mixin along with a GitHub workflow to demonstrate how you can use a workflow with your bundle
@@ -69,12 +77,34 @@
 - [app](https://github.com/docker/app) - Docker-App implementation of CNAB
 
 
+### Community-Projcts
+
+- [openfaas-cnab](https://github.com/johnmccabe/openfaas-cnab) - OpenFaaS CNAB Duffle Packaging
+- [buck-porter](https://github.com/technosophos/buck-cnab)- This is an example of using Buck and Porter together to create a Porter CRD.
+- [lupo](https://github.com/jdolitsky/lupo)- lupo is a pre-processor for Porter which allows you to build bundles with Lua
+- [cnab-azure-driver](https://github.com/deislabs/cnab-azure-driver) Azure CNAB Driver
+- [pycnab](https://github.com/garethr/pycnab)- Python CNAB Library
+
+
 ### Articles
 
 - [The state of CNAB: Part 1](https://deislabs.io/posts/state-of-cnab-part-1/) The state of CNAB: Part 1 - CNAB Core
 - [The state of CNAB: Part 2](https://deislabs.io/posts/state-of-cnab-part-2/) The state of CNAB: Part 2 - CNAB Registries
 - [Bringing container magic to cloud](https://cloudblogs.microsoft.com/opensource/2019/09/10/cloud-native-application-bundle-cnab-1-0-updates/) - Bringing container magic to cloud-native applications
 - [Pivotal Build Service](https://tanzu.vmware.com/content/blog/pivotal-build-service-now-alpha-assembles-and-updates-containers-in-kubernetes) - Pivotal Build Service, Now VMware Tanzu Function Service, Assembles and Updates Containers in Kubernetes
+
+
+### Talks
+
+- [sharing-is-caring](https://kccnceu20.sched.com/event/Zemr/sharing-is-caring-push-your-cloud-application-to-an-oci-registry-silvin-lubecki-djordje-lukic-docker)
+- [simplify-your-cloud-native-application](https://kccnceu20.sched.com/event/Zet9/simplify-your-cloud-native-application-packaging-and-deployments-chris-crone-docker)
+- [deep-dive-harbor](https://kccnceu20.sched.com/event/Zexh/deep-dive-harbor-enterprise-cloud-native-artifact-registry-steven-zou-daniel-jiang-vmware)
+- [notary-v2-introduction](https://kccnceu20.sched.com/event/Zewy/notary-v2-introduction-and-status-report-justin-cormack-docker-omar-paul-amazon)-
+- [Introducing CNAB](https://www.youtube.com/watch?v=26e5-UK4YRA)- Introducing Cloud Native Application Bundle (CNAB), standard for defining distributed applications
+- [Intro to CNAB](https://www.youtube.com/watch?v=r6aqKhvdsRs)- Intro to CNAB: Packaging Cloud Native Applications with Multiple Toolchains - Chris Crone, Docker
+- [Docker App and CNAB](https://www.youtube.com/watch?v=O3___BrE_MU)- Deploying Distributed Applications with Docker App and CNAB
+- [Understanding-CNAB](https://www.youtube.com/watch?v=QE-zAyz3tbM) - Understanding Cloud Native Application Bundles (CNAB)
+
 
 
 ## Contribute
