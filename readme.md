@@ -6,8 +6,11 @@
 ## Contents
 
 - [CNAB](#CNAB)
-
-- [Platforms](#Platforms)
+- [Implementations](#Implementations)
+- [Community-Projcts](#Community-Projcts)
+- [Articles](#Articles)
+- [Videos](#Videos)
+- [Talks](#Talks)
 
 ## CNAB
 
@@ -77,7 +80,7 @@
 - [app](https://github.com/docker/app) - Docker-App implementation of CNAB
 
 
-### Community-Projcts
+## Community-Projcts
 
 - [openfaas-cnab](https://github.com/johnmccabe/openfaas-cnab) - OpenFaaS CNAB Duffle Packaging
 - [buck-porter](https://github.com/technosophos/buck-cnab)- This is an example of using Buck and Porter together to create a Porter CRD.
@@ -86,7 +89,7 @@
 - [pycnab](https://github.com/garethr/pycnab)- Python CNAB Library
 
 
-### Articles
+## Articles
 
 - [The state of CNAB: Part 1](https://deislabs.io/posts/state-of-cnab-part-1/) The state of CNAB: Part 1 - CNAB Core
 - [The state of CNAB: Part 2](https://deislabs.io/posts/state-of-cnab-part-2/) The state of CNAB: Part 2 - CNAB Registries
@@ -94,16 +97,19 @@
 - [Pivotal Build Service](https://tanzu.vmware.com/content/blog/pivotal-build-service-now-alpha-assembles-and-updates-containers-in-kubernetes) - Pivotal Build Service, Now VMware Tanzu Function Service, Assembles and Updates Containers in Kubernetes
 
 
-### Talks
+## Videos
 
-- [sharing-is-caring](https://kccnceu20.sched.com/event/Zemr/sharing-is-caring-push-your-cloud-application-to-an-oci-registry-silvin-lubecki-djordje-lukic-docker)
-- [simplify-your-cloud-native-application](https://kccnceu20.sched.com/event/Zet9/simplify-your-cloud-native-application-packaging-and-deployments-chris-crone-docker)
-- [deep-dive-harbor](https://kccnceu20.sched.com/event/Zexh/deep-dive-harbor-enterprise-cloud-native-artifact-registry-steven-zou-daniel-jiang-vmware)
-- [notary-v2-introduction](https://kccnceu20.sched.com/event/Zewy/notary-v2-introduction-and-status-report-justin-cormack-docker-omar-paul-amazon)-
 - [Introducing CNAB](https://www.youtube.com/watch?v=26e5-UK4YRA)- Introducing Cloud Native Application Bundle (CNAB), standard for defining distributed applications
 - [Intro to CNAB](https://www.youtube.com/watch?v=r6aqKhvdsRs)- Intro to CNAB: Packaging Cloud Native Applications with Multiple Toolchains - Chris Crone, Docker
 - [Docker App and CNAB](https://www.youtube.com/watch?v=O3___BrE_MU)- Deploying Distributed Applications with Docker App and CNAB
 - [Understanding-CNAB](https://www.youtube.com/watch?v=QE-zAyz3tbM) - Understanding Cloud Native Application Bundles (CNAB)
+
+## Talks
+
+- [sharing-is-caring](https://kccnceu20.sched.com/event/Zemr/sharing-is-caring-push-your-cloud-application-to-an-oci-registry-silvin-lubecki-djordje-lukic-docker)
+- [simplify-your-cloud-native-application](https://kccnceu20.sched.com/event/Zet9/simplify-your-cloud-native-application-packaging-and-deployments-chris-crone-docker)
+- [deep-dive-harbor](https://kccnceu20.sched.com/event/Zexh/deep-dive-harbor-enterprise-cloud-native-artifact-registry-steven-zou-daniel-jiang-vmware)
+- [notary-v2-introduction](https://kccnceu20.sched.com/event/Zewy/notary-v2-introduction-and-status-report-justin-cormack-docker-omar-paul-amazon)
 
 
 
