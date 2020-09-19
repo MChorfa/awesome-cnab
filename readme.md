@@ -104,6 +104,11 @@
 - [Intro to CNAB](https://www.youtube.com/watch?v=r6aqKhvdsRs)- Intro to CNAB: Packaging Cloud Native Applications with Multiple Toolchains - Chris Crone, Docker
 - [Docker App and CNAB](https://www.youtube.com/watch?v=O3___BrE_MU)- Deploying Distributed Applications with Docker App and CNAB
 - [Understanding-CNAB](https://www.youtube.com/watch?v=QE-zAyz3tbM) - Understanding Cloud Native Application Bundles (CNAB)
+- [Understanding Cloud Native Application Bundles](https://www.youtube.com/embed/1FGMrv_xfqY) - understanding-cloud-native-application-bundles
+- [Porter: Digital Ocean, Terraform, Kubernetes](https://www.youtube.com/embed/ciA1YuGOIo4) - A demo video of using Porter to deploy infrastructure to Digital Ocean and Kubernetes using Terraform and Helm.
+- [Porter Bundle with K3D, Helm3 and Brigade by Nuno Do Carmo](https://www.youtube.com/embed/9egipQjUgD0) - Nuno Do Carmo demonstrates how to use Porter and CNAB to install Brigade on a new Kubernetes cluster using k3d and Helm.
+- [Porter: An Opinionated CNAB Authoring Experience](#porter-an-opinionated-cnab-authoring-experience)
+- [Free Glue Code - Porter](https://www.youtube.com/embed/__fim6RIW1s) - Free Glue Code - Porter
 
 ## Talks
 
