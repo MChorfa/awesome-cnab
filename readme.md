@@ -11,6 +11,7 @@
 - [Articles](#Articles)
 - [Videos](#Videos)
 - [Talks](#Talks)
+- [Varia](#Varia)
 
 ## CNAB
 
@@ -113,9 +114,7 @@
 
 ## Varia
 
-Registries that are [OCI compliant][oci-spec] should work with CNAB just fine. CNAB doesn't
-have additional requirements beyond that. Each registry below has been verified
-using a CNAB tool that uses the [cnab-to-oci] library.
+Registries that are [OCI compliant] Community Investigation
 
 | Registry | Compatible |
 | -------- | --------------- |
@@ -125,11 +124,11 @@ using a CNAB tool that uses the [cnab-to-oci] library.
 | **DigitalOcean Container Registry** | **Yes** |
 | Amazon Elastic Container Registry (ECR) | No |
 | **Google Cloud Registry (GCR)** | **Yes** |
-| GitHub Packages | **Yes** |
+| **GitHub Packages** | **Yes** |
 | **Harbor 2** | **Yes** |
 | Nexus | No |
 | Quay | No |
-| Quay | No |
+| Gitlab | No |
 
 
 ## Contribute
