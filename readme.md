@@ -95,7 +95,7 @@
 - [The state of CNAB: Part 2](https://deislabs.io/posts/state-of-cnab-part-2/) The state of CNAB: Part 2 - CNAB Registries
 - [Bringing container magic to cloud](https://cloudblogs.microsoft.com/opensource/2019/09/10/cloud-native-application-bundle-cnab-1-0-updates/) - Bringing container magic to cloud-native applications
 - [Pivotal Build Service](https://tanzu.vmware.com/content/blog/pivotal-build-service-now-alpha-assembles-and-updates-containers-in-kubernetes) - Pivotal Build Service, Now VMware Tanzu Function Service, Assembles and Updates Containers in Kubernetes
-
+- [powering-docker-app-next-steps-for-cnab](https://www.docker.com/blog/powering-docker-app-next-steps-for-cnab/) Powering Docker App: Next Steps for Cloud Native Application Bundles (CNAB)
 
 ## Videos
 
@@ -111,6 +111,25 @@
 - [deep-dive-harbor](https://kccnceu20.sched.com/event/Zexh/deep-dive-harbor-enterprise-cloud-native-artifact-registry-steven-zou-daniel-jiang-vmware)
 - [notary-v2-introduction](https://kccnceu20.sched.com/event/Zewy/notary-v2-introduction-and-status-report-justin-cormack-docker-omar-paul-amazon)
 
+## Varia
+
+Registries that are [OCI compliant][oci-spec] should work with CNAB just fine. CNAB doesn't
+have additional requirements beyond that. Each registry below has been verified
+using a CNAB tool that uses the [cnab-to-oci] library.
+
+| Registry | Compatible |
+| -------- | --------------- |
+| **Azure Container Registry (ACR)** | **Yes** |
+| Artifactory | No |
+| **Docker Hub** | **Yes** |
+| **DigitalOcean Container Registry** | **Yes** |
+| Amazon Elastic Container Registry (ECR) | No |
+| **Google Cloud Registry (GCR)** | **Yes** |
+| GitHub Packages | **Yes** |
+| **Harbor 2** | **Yes** |
+| Nexus | No |
+| Quay | No |
+| Quay | No |
 
 
 ## Contribute
