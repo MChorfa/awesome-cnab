@@ -119,21 +119,7 @@
 
 ## Varia
 
-Registries that are [OCI compliant] Community Investigation
-
-| Registry | Compatible |
-| -------- | --------------- |
-| **Azure Container Registry (ACR)** | **Yes** |
-| Artifactory | No |
-| **Docker Hub** | **Yes** |
-| **DigitalOcean Container Registry** | **Yes** |
-| Amazon Elastic Container Registry (ECR) | No |
-| **Google Cloud Registry (GCR)** | **Yes** |
-| **GitHub Packages** | **Yes** |
-| **Harbor 2** | **Yes** |
-| Nexus | No |
-| Quay | No |
-| Gitlab | No |
+- [Registries that are [OCI compliant] Community Investigation](https://github.com/bloodorangeio/oci-conformance/tree/master/distribution-spec) - OCI Distribution Spec Conformance Results
 
 
 ## Contribute
