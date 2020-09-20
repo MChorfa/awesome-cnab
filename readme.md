@@ -25,6 +25,7 @@
 - [cnab-to-oci](https://github.com/cnabio/cnab-to-oci) - Implementation for sharing a CNAB using an OCI
 - [cnab-js](https://github.com/cnabio/cnabjs) - A JS library for loading and working with CNAB manifests.
 - [cnab-rust](https://github.com/cnabio/cnab-rs) - This is a highly experimental (and currently unfinished) implementation of CNAB
+- [cnab-dot-net](https://github.com/deislabs/cnab-netstandard) - .NET Standard 2.0 Client Library for CNAB
 - [cnab-workshop](https://github.com/deislabs/cnab-workshop) - CNAB / Duffle Workshop
 - [oci-specification](https://github.com/opencontainers/image-spec) - OCI Image Format Specification
 - [oci-runtime](https://github.com/opencontainers/runtime-spec) - Open Container Initiative Runtime Specification
