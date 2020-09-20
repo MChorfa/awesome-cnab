@@ -58,22 +58,26 @@
 
 #### Mixins
 
-- [helm-mixin](https://github.com/getporter/helm-mixin) - Helm 2 Mixin for Porter
-- [helm3-mixin](https://github.com/MChorfa/porter-helm3) - Helm 3 Mixin for Porter
-- [kubernetes-mixin](https://github.com/getporter/kubernetes-mixin) - kubernetes Mixin for Porter
-- [docker-mixin](https://github.com/getporter/docker-mixin) - Porter mixin provides the Docker CLI
-- [docker-compose-mixin](https://github.com/getporter/docker-compose-mixin) - Porter mixin for the docker-compose CLI
-- [terraform-mixin](https://github.com/getporter/terraform-mixin) - Terraform Mixin for Porter
-- [gcloud-mixin](https://github.com/getporter/gcloud-mixin) - Porter mixin for the gcloud CLI
-- [aws-mixin](https://github.com/getporter/aws-mixin) - Porter mixin for the AWS CLI
-- [az-mixin](https://github.com/getporter/az-mixin) - An Azure CLI mixin for Porter
-- [arm-mixin](https://github.com/getporter/arm-mixin) - A Porter Mixin for using ARM
-
+- [helm-mixin](https://github.com/getporter/helm-mixin) - Helm 2 Mixin for Porter  by @get_porter
+- [helm3-mixin](https://github.com/MChorfa/porter-helm3) - Helm 3 Mixin for Porter by @MChorfa
+- [helm3-mixin](https://github.com/squillace/porter-helm3) - Helm3 Mixin for Porter by @ralph_squillace
+- [kubernetes-mixin](https://github.com/getporter/kubernetes-mixin) - kubernetes Mixin for Porter  by @get_porter
+- [docker-mixin](https://github.com/getporter/docker-mixin) - Porter mixin provides the Docker CLI  by @get_porter
+- [docker-compose-mixin](https://github.com/getporter/docker-compose-mixin) - Porter mixin for the docker-compose CLI by @get_porter
+- [terraform-mixin](https://github.com/getporter/terraform-mixin) - Terraform Mixin for Porter  by @get_porter
+- [gcloud-mixin](https://github.com/getporter/gcloud-mixin) - Porter mixin for the gcloud CLI  by @get_porter
+- [aws-mixin](https://github.com/getporter/aws-mixin) - Porter mixin for the AWS CLI  by @get_porter
+- [az-mixin](https://github.com/getporter/az-mixin) - An Azure CLI mixin for Porter  by @get_porter
+- [arm-mixin](https://github.com/getporter/arm-mixin) - A Porter Mixin for using ARM   by @get_porter
+- [kustomize-mixin](https://github.com/donmstewart/porter-kustomize) - Kustomize Mixin for Porter  @donmstewart
+- [jq-mixin](https://github.com/squillace/porter-jq) - JQ Mixin for Porter by @ralph_squillace
+- [azure-functions-mixin](https://github.com/squillace/porter-azure-functions) - Azure Functions Mixin for Porter by @ralph_squillace
+- [paconn-mixin](https://github.com/squillace/porter-paconn) - Paconn Mixin for Porter by @ralph_squillace
 
 #### Plugins
 
-- [azure-plugins](https://github.com/getporter/azure-plugins) - Azure Plugins for Porter
-- [hashicorp-plugins](https://github.com/dev-drprasad/porter-hashicorp-plugins) - Hashicorp's Vault plugin for Porter plugin
+- [azure-plugins](https://github.com/getporter/azure-plugins) - Azure Plugins for Porter  by @get_porter
+- [hashicorp-plugins](https://github.com/dev-drprasad/porter-hashicorp-plugins) - Hashicorp's Vault plugin for Porter plugin  by @dev-drprasad
 
 
 ### Docker-App
