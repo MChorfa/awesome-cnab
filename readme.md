@@ -46,6 +46,7 @@
 
 - [porter.sh](https://porter.sh) - Learn all about Porter
 - [porter-source](https://github.com/getporter/porter) - Porter makes CNAB bundles easier!
+- [porter-discussions](https://github.com/getporter/porter/discussions) - Porter discussions forum!
 - [porter-community](https://github.com/getporter/community) -  Porter Community repo
 - [mailing List](https://porter.sh/mailing-list) - Great for following the project at a high level because it is low traffic
 - [slack](https://porter.sh/community/#slack) - Discuss #porter or #cnab with other users and the maintainers.
