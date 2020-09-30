@@ -18,7 +18,8 @@
 - [cnab.io](https://cnab.io/) - Learn all about CNAB
 - [Specification](https://github.com/cnabio/cnab-spec) - Cloud Native Application Bundle Specification
 - [cnab-community](https://github.com/cnabio/community) - This project collects the shared information about the CNAB projects
-- [slack](https://cloud-native.slack.com/messages/CEX1W7WMD/) - CNCF Slack for discussions. Within the #cnab channel.
+- [slack](https://cloud-native.slack.com/messages/CEX1W7WMD/) - CNCF Slack for discussions. Within the #cnab channel
+- [cnab-community-meetings](https://hackmd.io/s/SyGcBcwQ4#CNAB-Community-Meeting) - CNAB Community Meeting Hackmd
 - [cnab-go](https://github.com/cnabio/cnab-go) - A Go implementation of CNAB Core 1.0
 - [duffle](https://github.com/deislabs/duffle) - Duffle is the reference implementation of the CNAB specification
 - [signy](https://github.com/cnabio/signy) - Signy is an experimental tool that implements the CNAB Security specification
