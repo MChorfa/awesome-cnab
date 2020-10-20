@@ -2,7 +2,6 @@
 
 > A curated list of awesome cnab (Cloud Native Applications Bundles)
 
-
 ## Contents
 
 - [CNAB](#CNAB)
@@ -40,7 +39,6 @@
 - [porter-bundles](https://github.com/vdice/porter-bundles)- porter-bundles
 - [duffle-bag](https://github.com/deislabs/duffle-bag)- A template for graphical user interfaces for working with CNAB bundles.
 
-
 ## Implementations
 
 ### Porter
@@ -48,7 +46,7 @@
 - [porter.sh](https://porter.sh) - Learn all about Porter
 - [porter-source](https://github.com/getporter/porter) - Porter makes CNAB bundles easier!
 - [porter-discussions](https://github.com/getporter/porter/discussions) - Porter discussions forum!
-- [porter-community](https://github.com/getporter/community) -  Porter Community repo
+- [porter-community](https://github.com/getporter/community) - Porter Community repo
 - [mailing List](https://porter.sh/mailing-list) - Great for following the project at a high level because it is low traffic
 - [slack](https://porter.sh/community/#slack) - Discuss #porter or #cnab with other users and the maintainers.
 - [open an Issue](https://github.com/deislabs/porter/issues/new/choose) - If you have a bug, feature request or question about Porter
@@ -60,27 +58,26 @@
 
 #### Mixins
 
-- [helm-mixin](https://github.com/getporter/helm-mixin) - Helm 2 Mixin for Porter  by @get_porter
+- [helm-mixin](https://github.com/getporter/helm-mixin) - Helm 2 Mixin for Porter by @get_porter
 - [helm3-mixin](https://github.com/MChorfa/porter-helm3) - Helm 3 Mixin for Porter by @MChorfa
 - [helm3-mixin](https://github.com/squillace/porter-helm3) - Helm3 Mixin for Porter by @ralph_squillace
-- [kubernetes-mixin](https://github.com/getporter/kubernetes-mixin) - kubernetes Mixin for Porter  by @get_porter
-- [docker-mixin](https://github.com/getporter/docker-mixin) - Porter mixin provides the Docker CLI  by @get_porter
+- [kubernetes-mixin](https://github.com/getporter/kubernetes-mixin) - kubernetes Mixin for Porter by @get_porter
+- [docker-mixin](https://github.com/getporter/docker-mixin) - Porter mixin provides the Docker CLI by @get_porter
 - [docker-compose-mixin](https://github.com/getporter/docker-compose-mixin) - Porter mixin for the docker-compose CLI by @get_porter
-- [terraform-mixin](https://github.com/getporter/terraform-mixin) - Terraform Mixin for Porter  by @get_porter
-- [gcloud-mixin](https://github.com/getporter/gcloud-mixin) - Porter mixin for the gcloud CLI  by @get_porter
-- [aws-mixin](https://github.com/getporter/aws-mixin) - Porter mixin for the AWS CLI  by @get_porter
-- [az-mixin](https://github.com/getporter/az-mixin) - An Azure CLI mixin for Porter  by @get_porter
-- [arm-mixin](https://github.com/getporter/arm-mixin) - A Porter Mixin for using ARM   by @get_porter
-- [kustomize-mixin](https://github.com/donmstewart/porter-kustomize) - Kustomize Mixin for Porter  @donmstewart
+- [terraform-mixin](https://github.com/getporter/terraform-mixin) - Terraform Mixin for Porter by @get_porter
+- [gcloud-mixin](https://github.com/getporter/gcloud-mixin) - Porter mixin for the gcloud CLI by @get_porter
+- [aws-mixin](https://github.com/getporter/aws-mixin) - Porter mixin for the AWS CLI by @get_porter
+- [az-mixin](https://github.com/getporter/az-mixin) - An Azure CLI mixin for Porter by @get_porter
+- [arm-mixin](https://github.com/getporter/arm-mixin) - A Porter Mixin for using ARM by @get_porter
+- [kustomize-mixin](https://github.com/donmstewart/porter-kustomize) - Kustomize Mixin for Porter @donmstewart
 - [jq-mixin](https://github.com/squillace/porter-jq) - JQ Mixin for Porter by @ralph_squillace
 - [azure-functions-mixin](https://github.com/squillace/porter-azure-functions) - Azure Functions Mixin for Porter by @ralph_squillace
 - [paconn-mixin](https://github.com/squillace/porter-paconn) - Paconn Mixin for Porter by @ralph_squillace
 
 #### Plugins
 
-- [azure-plugins](https://github.com/getporter/azure-plugins) - Azure Plugins for Porter  by @get_porter
-- [hashicorp-plugins](https://github.com/dev-drprasad/porter-hashicorp-plugins) - Hashicorp's Vault plugin for Porter plugin  by @dev-drprasad
-
+- [azure-plugins](https://github.com/getporter/azure-plugins) - Azure Plugins for Porter by @get_porter
+- [hashicorp-plugins](https://github.com/dev-drprasad/porter-hashicorp-plugins) - Hashicorp's Vault plugin for Porter plugin by @dev-drprasad
 
 ### Docker-App
 
@@ -95,7 +92,6 @@
 - [lupo](https://github.com/jdolitsky/lupo)- lupo is a pre-processor for Porter which allows you to build bundles with Lua
 - [cnab-azure-driver](https://github.com/deislabs/cnab-azure-driver) Azure CNAB Driver
 - [pycnab](https://github.com/garethr/pycnab)- Python CNAB Library
-
 
 ## Articles
 
@@ -116,6 +112,7 @@
 - [Porter: Digital Ocean, Terraform, Kubernetes](https://www.youtube.com/embed/ciA1YuGOIo4) - A demo video of using Porter to deploy infrastructure to Digital Ocean and Kubernetes using Terraform and Helm.
 - [Porter Bundle with K3D, Helm3 and Brigade by Nuno Do Carmo](https://www.youtube.com/embed/9egipQjUgD0) - Nuno Do Carmo demonstrates how to use Porter and CNAB to install Brigade on a new Kubernetes cluster using k3d and Helm.
 - [Porter: An Opinionated CNAB Authoring Experience](https://www.youtube.com/embed/__fim6RIW1s) - Porter: An Opinionated CNAB Authoring Experience
+- [Datadog on Software Delivery](https://www.youtube.com/watch?v=H67uuwVO1tc&feature=emb_logo)
 
 ## Talks
 
@@ -128,11 +125,9 @@
 
 - [Registries that are [OCI compliant] Community Investigation](https://github.com/bloodorangeio/oci-conformance/tree/master/distribution-spec) - OCI Distribution Spec Conformance Results
 
-
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 
