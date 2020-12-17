@@ -85,7 +85,7 @@
 - [app](https://github.com/docker/app) - Docker-App implementation of CNAB
 - [Docker Application Docs](https://docs.docker.com/engine/reference/commandline/app/) - Docs - A tool to build and manage Docker Applications
 
-## Community-Projcts
+## Community-Projects
 
 - [openfaas-cnab](https://github.com/johnmccabe/openfaas-cnab) - OpenFaaS CNAB Duffle Packaging
 - [buck-porter](https://github.com/technosophos/buck-cnab)- This is an example of using Buck and Porter together to create a Porter CRD.
@@ -113,6 +113,7 @@
 - [Porter Bundle with K3D, Helm3 and Brigade by Nuno Do Carmo](https://www.youtube.com/embed/9egipQjUgD0) - Nuno Do Carmo demonstrates how to use Porter and CNAB to install Brigade on a new Kubernetes cluster using k3d and Helm.
 - [Porter: An Opinionated CNAB Authoring Experience](https://www.youtube.com/embed/__fim6RIW1s) - Porter: An Opinionated CNAB Authoring Experience
 - [Datadog on Software Delivery](https://www.youtube.com/watch?v=H67uuwVO1tc&feature=emb_logo)
+- [The Devil is in the Deployments: Bundle Use Cases](https://www.youtube.com/watch?v=wNl8m3h9I4E&feature=emb_logo)
 
 ## Talks
 
